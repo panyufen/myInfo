@@ -7,7 +7,7 @@
 * 工作年限：5年
 * 联系电话：17612442450
 * 电子邮箱：p774285727@163.com
-* GitHub:[https://github.com/panyufen](https://github.com/panyufen)
+* Gitub：[https://github.com/panyufen](https://github.com/panyufen)
 #### 期望职位：
 #####   Android开发工程师
 #### 工作感受
