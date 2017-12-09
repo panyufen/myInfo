@@ -64,12 +64,12 @@ App架构设计，离线登陆，网络请求封装；图片加载封装；ListV
 
 ### 2012/08 -- 2013/05
 道同网网站
-软件环境：iis+mysql+php
-开发工具：EclipsePHP , FTP , navcat
-责任描述：
+- 软件环境：iis+mysql+php
+- 开发工具：EclipsePHP , FTP , navcat
+- 责任描述：
 前期参与前台开发半年熟练HTML，CSS, JS ，JQuey,等前端技术。
 后转入后端开发，开发语言PHP, 熟练 HDWIKI,ThinkPHP，BrotherPHP,CI,yii等框架。
 熟练mysql 数据库设计，开发，优化。
-项目简介：
+- 项目简介：
 该项目是艺术品分享交易的平台。网站主要功能包括：圈子分享，商户机构管理，文化百科，商品管理
       
