@@ -23,7 +23,6 @@ IT服务(系统/数据/维护)|企业性质：民营|规模：20-99人|职位月
 2012年8月到公司实习，大半年WEB前端开发，熟悉html,javascript,jq,css。半年多开发WEB后台(PHP，MYSQL)，熟悉常用php框架，HDWIKI，ThinkPHP，CI。
 2013年5月，独自开发了移动app后台接口，并参与android app 开发到2016年1月，担任android 开发小组组长，组员4人。
 通过3年多的工作，在提升自己技术的同时，更多的是学习到了如何去协调和组织团队成员。作为普通成员也需要认真负责，积极主动沟通，能吃苦耐劳，敢于承受压力，创新能力强的基本能力。
-
 ## 项目经验
 ### 2016/04 -- 2017/09
 平通车 安卓客户端
@@ -76,7 +75,7 @@ App架构设计，离线登陆，网络请求封装；图片加载封装；ListV
       
 ## 技能专长
 #### 编程语言
-Java ，PHP ，Python ，JavaScript
+Java ，PHP ，Python ，MySQL ，JavaScript
 #### 熟悉框架
 - OkHttp ，Retrofit ，Volley 
 - GreenDao 
