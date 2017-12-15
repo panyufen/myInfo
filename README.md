@@ -74,3 +74,14 @@ App架构设计，离线登陆，网络请求封装；图片加载封装；ListV
 - 项目简介：
 该项目是艺术品分享交易的平台。网站主要功能包括：圈子分享，商户机构管理，文化百科，商品管理
       
+## 技能专长
+#### 编程语言
+Java ，PHP ，Python ，JavaScript
+#### 熟悉框架
+OkHttp Retrofit Volley 
+GreenDao 
+EventBus 
+XUtils ButterKnife
+ImageLoader Picasso Glide 
+OpenCV  
+Cordova React-Native
