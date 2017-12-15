@@ -78,10 +78,10 @@ App架构设计，离线登陆，网络请求封装；图片加载封装；ListV
 #### 编程语言
 Java ，PHP ，Python ，JavaScript
 #### 熟悉框架
-OkHttp Retrofit Volley 
-GreenDao 
-EventBus 
-XUtils ButterKnife
-ImageLoader Picasso Glide 
-OpenCV  
-Cordova React-Native
+- OkHttp ，Retrofit ，Volley 
+- GreenDao 
+- EventBus 
+- XUtils ，ButterKnife
+- ImageLoader ，Picasso ，Glide 
+- OpenCV  
+- Cordova ，React-Native
