@@ -83,5 +83,7 @@ Java ，PHP ，Python ，JavaScript
 - EventBus 
 - XUtils ，ButterKnife
 - ImageLoader ，Picasso ，Glide 
-- OpenCV  
 - Cordova ，React-Native
+- OpenCV  
+- HDWIKI ，ThinkPHP ，CI , Yii
+- 
